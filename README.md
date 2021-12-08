@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Skylar-Kerzner
+- 👀 I’m interested in Causal Inference & NLP, typically to turn User/Customer Data into causal conclusions and differentiating, data-driven product features
+- 🌱 I’m always learning Causal Inference, ML, NLP, and how to identify excellent Product features
+- 💞️ I’m looking to collaborate on turning my causal_nlp library into the most commonly used library for the Causal Inference + NLP revolution!
+- 📫 How to reach me --> skylar.kerzner@gmail.com
